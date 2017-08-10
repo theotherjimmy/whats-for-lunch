@@ -1,0 +1,6 @@
+[package]
+name = "whats-for-lunch"
+version = "0.1.0"
+authors = ["Jimmy Brisson <theotherjimmy@gmail.com>"]
+
+[dependencies]
